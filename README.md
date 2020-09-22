@@ -13,10 +13,10 @@ The project is meant to be an implementation of a indoor positioning system: giv
 * If you want you can use the files that I provide for the test ('centroidi.mat' or 'centroidi15M.mat', and 'cell_db.mat')
 * Use main_cell.m
 
-#Bag of words
+# Bag of words
 There is also an implementation using Bag of words (BoW) but it's not manteained, and it's only for testing.
 
-#Authors
+# Authors
 * Marco Ciccone <marco.ciccone@mail.polimi.it> or <marco.ciccone88@gmail.com>
 
 * Riccardo Delegà <riccardo.delega@gmail.com>
